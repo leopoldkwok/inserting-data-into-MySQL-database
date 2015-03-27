@@ -1,0 +1,6 @@
+<?php
+
+	$conn = mysql_connect('localhost','root', '');
+	$db = mysql_select_db('test1_ajax');
+
+?>
